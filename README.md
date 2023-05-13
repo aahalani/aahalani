@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> &lt; Hello World /&gt;</h1>
-<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(6).png"/>
+<img src = "https://github.com/aahalani/aahalani/assets/29179250/d8faa8ea-c9cc-44ee-8d5c-996121586ccf"/>
 
 <div align = 'center'>
 <!---
