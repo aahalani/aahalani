@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> &lt; Hello World /&gt;</h1>
-<img src = "https://github.com/aahalani/aahalani/assets/29179250/d8faa8ea-c9cc-44ee-8d5c-996121586ccf"/>
+<img src = "https://github.com/aahalani/aahalani/assets/29179250/662f77a9-19f0-4718-ba98-4e23e84d1c22"/>
 
 <div align = 'center'>
 <!---
